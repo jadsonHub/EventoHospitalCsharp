@@ -1,0 +1,13 @@
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.csprojAssemblyReference.cache
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.AssemblyInfoInputs.cache
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.AssemblyInfo.cs
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.csproj.CoreCompileInputs.cache
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.exe
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.deps.json
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.runtimeconfig.json
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.runtimeconfig.dev.json
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.dll
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.pdb
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.dll
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.pdb
+C:\Users\frana\Documents\Aulas C#\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.genruntimeconfig.cache
